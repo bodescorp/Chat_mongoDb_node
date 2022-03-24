@@ -6,3 +6,7 @@ yarn install
 
 yarn start
 
+acesse http://localhost:3000/
+
+acesse em duas guias
+
